@@ -5,11 +5,11 @@
 
 title: test file
 description: test file
-author:      bharney0 # GitHub alias
-ms.author:   brharney # Microsoft alias
+author:      asrivastava0308# GitHub alias
+ms.author:   asrivastava0308 # Microsoft alias
 ms.service: adaptive-cards
 ms.topic: best-practice
-ms.date:     01/22/2024
+ms.date:     02/07/2024
 ---
 
 test-file1
