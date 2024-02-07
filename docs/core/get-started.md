@@ -7,7 +7,7 @@ ms.date: 07/19/2022
 ms.custom: vs-dotnet, devdivchpfy22
 ms.topic: tutorial
 ---
-# Get started with .NET
+# Get started with .NET test 
 
 This article teaches you how to create and run a "Hello World!" app with [.NET](introduction.md).
 
